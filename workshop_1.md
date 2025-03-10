@@ -25,30 +25,48 @@
 ![Assniffer](https://github.com/user-attachments/assets/68fc5db5-23f1-46df-93c9-0e2afc174a87)
 ![Desktop2](https://github.com/user-attachments/assets/9a298494-dd3b-454a-af66-6595dde3a9e5)
 ![Legioner](https://github.com/user-attachments/assets/b38f0ec2-7db4-479e-b872-c1faafcb0993)
+![image](https://github.com/user-attachments/assets/00bcc9a0-ccb7-4ca3-8c5c-e3dafd62f8aa)
 ### 75%
 ![Assniffer (1)](https://github.com/user-attachments/assets/91de9a57-1d7e-4a68-8a66-e19291444061)
 ![Desktop2 (1)](https://github.com/user-attachments/assets/fc3cf4af-c126-4a28-9e74-b33c7afebba2)
 ![Legioner (1)](https://github.com/user-attachments/assets/8cc5faf3-0a47-4e74-9a42-94dcca24c9f8)
+![image](https://github.com/user-attachments/assets/adcd44ca-9113-459d-9cb0-7f6f7aaf990a)
 ### 50%
 ![Assniffer (2)](https://github.com/user-attachments/assets/0bd3e29d-9ca9-43a0-9de8-91a50800adb4)
 ![Desktop2 (2)](https://github.com/user-attachments/assets/8057037d-912d-4210-912c-4466e7afabcc)
 ![Legioner (2)](https://github.com/user-attachments/assets/7918857c-5afc-4cb4-97a5-3eb67b7dad13)
+![image](https://github.com/user-attachments/assets/d593a740-48ed-41ee-ba1d-0e862abe4367)
 ## (WebP (lossy))
 ### 100%
 <a href="https://ibb.co/m5WFKGbD"><img src="https://i.ibb.co/WvJpX6Gx/Assniffer.webp" alt="Assniffer" border="0"></a>
-<a href="https://ibb.co/Fbdzp9y5"><img src="https://i.ibb.co/fYTHJbyk/Desktop2-1.webp" alt="Desktop2-1" border="0"></a>
-<a href="https://ibb.co/fzTWvFYn"><img src="https://i.ibb.co/DHjFpWD8/Legioner-3.webp" alt="Legioner-3" border="0"></a>
+<a href="https://ibb.co/Fbdzp9y5"><img src="https://i.ibb.co/fYTHJbyk/Desktop2-1.webp" alt="Desktop2" border="0"></a>
+<a href="https://ibb.co/fzTWvFYn"><img src="https://i.ibb.co/DHjFpWD8/Legioner-3.webp" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/76b21427-3897-474b-ab96-3ed622b8dc13)
 ### 75%
-<a href="https://ibb.co/YFJJK4Rz"><img src="https://i.ibb.co/gLQQXbj5/Assniffer-1.webp" alt="Assniffer-1" border="0"></a>
-<a href="https://ibb.co/sdpZXcDK"><img src="https://i.ibb.co/4nwH0CD8/Desktop2-2.webp" alt="Desktop2-2" border="0"></a>
-<a href="https://ibb.co/0yvk5Fhp"><img src="https://i.ibb.co/v4Rb9QZC/Legioner-2.webp" alt="Legioner-2" border="0"></a>
+<a href="https://ibb.co/YFJJK4Rz"><img src="https://i.ibb.co/gLQQXbj5/Assniffer-1.webp" alt="Assniffer" border="0"></a>
+<a href="https://ibb.co/sdpZXcDK"><img src="https://i.ibb.co/4nwH0CD8/Desktop2-2.webp" alt="Desktop2" border="0"></a>
+<a href="https://ibb.co/0yvk5Fhp"><img src="https://i.ibb.co/v4Rb9QZC/Legioner-2.webp" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/dd7c6b1d-183f-467c-9752-7caf58e3936f)
 ### 50%
-<a href="https://ibb.co/7NSx2dPM"><img src="https://i.ibb.co/rfQK4RY8/Assniffer-2.webp" alt="Assniffer-2" border="0"></a>
-<a href="https://ibb.co/mrq9tTgZ"><img src="https://i.ibb.co/LDtx6RHj/Desktop2-3.webp" alt="Desktop2-3" border="0"></a>
-<a href="https://ibb.co/tpS09VPb"><img src="https://i.ibb.co/gZG0xkFD/Legioner-1.webp" alt="Legioner-1" border="0"></a>
+<a href="https://ibb.co/7NSx2dPM"><img src="https://i.ibb.co/rfQK4RY8/Assniffer-2.webp" alt="Assniffer" border="0"></a>
+<a href="https://ibb.co/mrq9tTgZ"><img src="https://i.ibb.co/LDtx6RHj/Desktop2-3.webp" alt="Desktop2" border="0"></a>
+<a href="https://ibb.co/tpS09VPb"><img src="https://i.ibb.co/gZG0xkFD/Legioner-1.webp" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/e62acfc7-506c-45a4-9f5e-3d4c7d5ad34c)
 ## (AVIF)
 ### 100%
-
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%20100/Assniffer.avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%20100/Assniffer.avif" alt="Assniffer" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%20100/Desktop2.avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%20100/Desktop2.avif" alt="Desktop2" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%20100/Legioner.avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%20100/Legioner.avif" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/c0f81538-cc90-477f-8a63-f736ebae12a6)
 ### 75%
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Assniffer%20(1).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Assniffer%20(1).avif" alt="Assniffer" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Desktop2(1).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Desktop2%20(1).avif" alt="Desktop2" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Legioner%20(1).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Legioner%20(1).avif" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/e0d39cb8-796c-402f-98b3-2801061d06a7)
 ### 50%
+<a href=""><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Assniffer%20(2).avif" alt="Assniffer" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Desktop2%20(2).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Desktop2%20(2).avif" alt="Desktop2" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Legioner%20(2).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Legioner%20(2).avif" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/99476537-7aa8-4474-9dfc-7eca104e4db5)
+
 <h3>Прийнятні рівні якості для зображень: Assniffer - 15% Desktop - 10% Legions - 30%</h3>
