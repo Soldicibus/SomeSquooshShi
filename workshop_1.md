@@ -64,9 +64,74 @@
 <a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Legioner%20(1).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2075/Legioner%20(1).avif" alt="Legioner" border="0"></a>
 ![image](https://github.com/user-attachments/assets/e0d39cb8-796c-402f-98b3-2801061d06a7)
 ### 50%
-<a href=""><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Assniffer%20(2).avif" alt="Assniffer" border="0"></a>
+<a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Assniffer%20(2).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Assniffer%20(2).avif" alt="Assniffer" border="0"></a>
 <a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Desktop2%20(2).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Desktop2%20(2).avif" alt="Desktop2" border="0"></a>
 <a href="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Legioner%20(2).avif"><img src="https://raw.githubusercontent.com/Soldicibus/SomeSquooshShi/refs/heads/main/AVIF%2050/Legioner%20(2).avif" alt="Legioner" border="0"></a>
 ![image](https://github.com/user-attachments/assets/99476537-7aa8-4474-9dfc-7eca104e4db5)
+<br>
+Прийнятні рівні якості для зображень: Assniffer - 15% Desktop - 10% Legions - 30%
 
-<h3>Прийнятні рівні якості для зображень: Assniffer - 15% Desktop - 10% Legions - 30%</h3>
+# Оптимізація розміру відповідно до цільового використання
+## Для вебу
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20Web%20resize/Assniffer.png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20Web%20resize/Assniffer.png" alt="Assniffer" border="0"></a>
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20Web%20resize/Desktop2%20(1).png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20Web%20resize/Desktop2%20(1).png" alt="Desktop2" border="0"></a>
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20Web%20resize/Legioner.png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20Web%20resize/Legioner.png" alt="Legioner" border="0">
+  
+![image](https://github.com/user-attachments/assets/d9c07695-67c5-4712-82b3-3d1d53693bea)
+</a>
+## Для мобільних пристроїв
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20mobile%20resize/Assniffer.png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20mobile%20resize/Assniffer.png" alt="Assniffer" border="0"></a>
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20mobile%20resize/Desktop2%20(2).png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20mobile%20resize/Desktop2%20(2).png" alt="Desktop2" border="0"></a>
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20mobile%20resize/Legioner%20(1).png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/For%20mobile%20resize/Legioner%20(1).png" alt="Legioner" border="0"></a>
+
+![image](https://github.com/user-attachments/assets/dcdfa6b5-f7f5-467f-a2ad-735e1730462f)
+
+
+## Для Retina-дисплеїв
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/Retina%20resize/Assniffer%20(1).png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/Retina%20resize/Assniffer%20(1).png" alt="Assniffer" border="0"></a>
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/Retina%20resize/Desktop2%20(3).png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/Retina%20resize/Desktop2%20(3).png" alt="Desktop2" border="0"></a>
+<a href="https://github.com/Soldicibus/SomeSquooshShi/blob/main/Retina%20resize/Legioner%20(2).png"><img src="https://github.com/Soldicibus/SomeSquooshShi/blob/main/Retina%20resize/Legioner%20(2).png" alt="Legioner" border="0"></a>
+![image](https://github.com/user-attachments/assets/c903df04-d103-4b5b-8735-31fb5b4241cf)
+
+# Таблиця порівняння
+<table>
+        <tr>
+            <th>Формат</th>
+            <th>Якість</th>
+            <th>Файл</th>
+            <th>Розмір (байт)</th>
+        </tr>
+        <tr><td>AVIF</td><td>100</td><td>Assniffer.avif</td><td>193679</td></tr>
+        <tr><td>AVIF</td><td>100</td><td>Desktop2.avif</td><td>159541</td></tr>
+        <tr><td>AVIF</td><td>100</td><td>Legioner.avif</td><td>471844</td></tr>
+        <tr><td>AVIF</td><td>50</td><td>Assniffer.avif</td><td>26991</td></tr>
+        <tr><td>AVIF</td><td>50</td><td>Desktop2.avif</td><td>11907</td></tr>
+        <tr><td>AVIF</td><td>50</td><td>Legioner.avif</td><td>45215</td></tr>
+        <tr><td>AVIF</td><td>75</td><td>Assniffer.avif</td><td>68913</td></tr>
+        <tr><td>AVIF</td><td>75</td><td>Desktop2.avif</td><td>18465</td></tr>
+        <tr><td>AVIF</td><td>75</td><td>Legioner.avif</td><td>102773</td></tr>
+        <tr><td>JPEG</td><td>100</td><td>Assniffer.jpg</td><td>415559</td></tr>
+        <tr><td>JPEG</td><td>100</td><td>Desktop2.jpg</td><td>278880</td></tr>
+        <tr><td>JPEG</td><td>100</td><td>Legioner.jpg</td><td>804345</td></tr>
+        <tr><td>JPEG</td><td>50</td><td>Assniffer.jpg</td><td>22469</td></tr>
+        <tr><td>JPEG</td><td>50</td><td>Desktop2.jpg</td><td>23985</td></tr>
+        <tr><td>JPEG</td><td>50</td><td>Legioner.jpg</td><td>68885</td></tr>
+        <tr><td>JPEG</td><td>75</td><td>Assniffer.jpg</td><td>38522</td></tr>
+        <tr><td>JPEG</td><td>75</td><td>Desktop2.jpg</td><td>31928</td></tr>
+        <tr><td>JPEG</td><td>75</td><td>Legioner.jpg</td><td>108630</td></tr>
+        <tr><td>PNG</td><td>Original</td><td>Assniffer.png</td><td>457213</td></tr>
+        <tr><td>PNG</td><td>Original</td><td>Desktop2.png</td><td>1126636</td></tr>
+        <tr><td>PNG</td><td>Original</td><td>Legioner.png</td><td>1799530</td></tr>
+        <tr><td>PNG</td><td>Lossless</td><td>Assniffer.png</td><td>135724</td></tr>
+        <tr><td>PNG</td><td>Lossless</td><td>Desktop2.png</td><td>736594</td></tr>
+        <tr><td>PNG</td><td>Lossless</td><td>Legioner.png</td><td>1401931</td></tr>
+        <tr><td>WebP</td><td>Lossless</td><td>Assniffer.webp</td><td>126242</td></tr>
+        <tr><td>WebP</td><td>Lossless</td><td>Desktop2.webp</td><td>593062</td></tr>
+        <tr><td>WebP</td><td>Lossless</td><td>Legioner.webp</td><td>1048314</td></tr>
+        <tr><td>WebP</td><td>Lossy 100</td><td>Assniffer.webp</td><td>154240</td></tr>
+        <tr><td>WebP</td><td>Lossy 50</td><td>Assniffer.webp</td><td>21514</td></tr>
+    </table>
+    
+# Висновок
+AVIF забезпечує найкращу якість при мінімальному розмірі файлу, підходить для веб-сайтів, тоді як JPEG (MozJPEG) добре стискає світлини, а PNG ідеальний для прозорих зображень. WebP балансує між якістю та розміром. Стиснення (JPEG/WebP/AVIF 50 vs 100) значно зменшує розмір файлу, але може впливати на якість, тоді як PNG lossless ефективно скорочує розмір без втрати деталей. 
+Для Retina-дисплеїв варто використовувати векторні зображення (SVG), графіку з удвічі більшою роздільною здатністю, WebP або AVIF у високій якості та srcset у HTML для адаптації до різних дисплеїв.
